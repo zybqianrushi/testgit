@@ -1,0 +1,7 @@
+# WorkBuddy workspace metadata
+.workbuddy/
+
+# OS junk files
+Thumbs.db
+Desktop.ini
+.DS_Store
